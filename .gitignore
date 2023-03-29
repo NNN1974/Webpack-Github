@@ -1,6 +1,6 @@
 error.txt
 /dist
 /node_modules
-/text
-src/assets
-/styles/normalize.css
+/src/text
+/src/assets
+/src/styles/normalize.css
