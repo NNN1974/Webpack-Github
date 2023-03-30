@@ -18,6 +18,9 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
 .logo {
     background-image: url("../assets/webpack-logo.png");
     background-size: cover;
